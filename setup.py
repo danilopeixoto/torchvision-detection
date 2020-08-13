@@ -13,14 +13,14 @@ REQUIREMENTS = [
 
 setup(
   name = 'torchvision-detection',
-  version = '0.6.5',
+  version = '0.7.0',
   description = 'Object detection reference training scripts.',
   author = 'PyTorch Team',
   maintainer = 'Danilo Peixoto',
   maintainer_email = 'danilopeixoto@outlook.com',
   license = 'BSD',
   url = 'https://github.com/danilopeixoto/torchvision-detection',
-  download_url = 'https://github.com/danilopeixoto/torchvision-detection/archive/v0.6.5.tar.gz',
+  download_url = 'https://github.com/danilopeixoto/torchvision-detection/archive/v0.7.0.tar.gz',
   packages = find_packages(),
   python_requires = '>=3.6',
   install_requires = REQUIREMENTS,
